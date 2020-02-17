@@ -14,4 +14,5 @@ dependencies {
 }
 ```
 
-You can also define *runtime* or *testRuntime* dependencies.
+You can also define *runtime* or *testRuntime* dependencies.  
+'implementation', 'testImplementation' and 'testRuntimeOnly' are **configurations**
