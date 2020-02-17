@@ -5,15 +5,15 @@
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://revealjs.com",
+  "homepage": "https://jntakpe.github.io/build-automation",
   "license": "MIT",
-  "description": "The HTML Presentation Framework",
+  "description": "DxP Gradle build automation presentation",
   "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+    "Jocelyn N'TAKPE <jocelyn.ntakpe@soprabanking.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@innersource.soprasteria.com:dxp/training/presentations/gradle-build-automation.git"
   },
   "ignore": [
     "**/.*",

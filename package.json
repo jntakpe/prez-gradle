@@ -2,8 +2,8 @@
   "name": "build-automation",
   "version": "1.0.0",
   "description": "DxP build automation presentation",
-  "homepage": "https://jntakpe.github.io/build-automation/",
-  "subdomain": "revealjs",
+  "homepage": "https://jntakpe.github.io/",
+  "subdomain": "build-automation",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
