@@ -2,14 +2,14 @@
 
 ```kotlin
 repositories {
+    mavenLocal()
     mavenCentral()
-    jcenter()
     maven {
-        url = uri("$repositoryUrl/gradle-repo")
+        url = uri("https://my.nexus.registry/gradle-repo")
         authentication { create<BasicAuthentication>("basic") }
         credentials { 
-            username = repositoryUser
-            password = repositoryPassword
+            username = "jdoe"
+            password = "changeme"
          }
     }
 }

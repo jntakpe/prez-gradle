@@ -1,7 +1,8 @@
 ## Advanced features
 
-* Parallel unit test execution
+* Parallel builds
 * Dependency build
+* Dependency/Task cache
 * Incremental build support
 * Gradle daemon
 * Gradle wrapper
