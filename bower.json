@@ -1,6 +1,6 @@
 {
-  "name": "reveal.js",
-  "version": "3.9.2",
+  "name": "reactive",
+  "version": "1.0.0",
   "main": [
     "js/reveal.js",
     "css/reveal.css"
