@@ -5,7 +5,7 @@
 * [Prevents](https://innersource.soprasteria.com/dxp/dxp-core/common-librairies/dxp-gradle/blob/master/src/main/kotlin/com/soprabanking/dxp/Dependencies.kt#L81)
  snapshot usage in releases
 * [Configures](https://innersource.soprasteria.com/dxp/dxp-core/common-librairies/dxp-gradle/blob/master/src/main/kotlin/com/soprabanking/dxp/Owasp.kt)
- Owasp to check dependencies and update a CVS registry
+ Owasp to check dependencies and update a CVE registry
 * [Configures](https://innersource.soprasteria.com/dxp/dxp-core/common-librairies/dxp-gradle/blob/master/src/main/kotlin/com/soprabanking/dxp/Dxp.kt#L24)
  dependency strategies and excludes unwanted modules
 * [Configures](https://innersource.soprasteria.com/dxp/dxp-core/common-librairies/dxp-gradle/blob/master/src/main/kotlin/com/soprabanking/dxp/Versions.kt)
